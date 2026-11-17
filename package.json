@@ -1,0 +1,17 @@
+{
+  "name": "js-mocking",
+  "version": "1.0.0",
+  "description": "Mocking task with Jest",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.24.0",
+    "@babel/preset-env": "^7.24.0",
+    "babel-jest": "^29.7.0",
+    "core-js": "^3.36.0",
+    "jest": "^29.7.0"
+  }
+}
